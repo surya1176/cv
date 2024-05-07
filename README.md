@@ -1,3 +1,2 @@
 # cv by surya
-this a temp repo for practice 
-this is repo made by me to practice github
+this is surya and this is my repo
